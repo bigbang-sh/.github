@@ -1,1 +1,1 @@
-# BigBang.sh - coming soon!
+Special GitHub repo for org profile
